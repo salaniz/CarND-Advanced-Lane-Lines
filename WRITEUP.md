@@ -154,9 +154,9 @@ The full pipeline is visualized here:
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a link to my [video result](./project_video.mp4) for the project video as well as a [debug video](./project_video.mp4) that additionally shows the lane detection.
+Here's a link to my [project video result](./videos/project_video_lane.mp4) as well as a [project debug video](./videos/project_video_lane_debug.mp4) that additionally shows the lane detection.
 
-In order to detect lanes on the challenge video, the hyperparameters for color/gradient thresholds were slightly adjusted. This way the lanes could be detected: [video result](./project_video.mp4), [debug video](./project_video.mp4)
+In order to detect lanes on the challenge video, the hyperparameters for color/gradient thresholds were slightly adjusted. This way the lanes could be detected: [challenge video result](./videos/challenge_video_lane.mp4), [challenge debug video](./videos/challenge_video_lane_debug.mp4)
 
 ---
 
